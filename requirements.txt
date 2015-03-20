@@ -1,1 +1,1 @@
-oath
+git+https://github.com/bdauvergne/python-oath#egg=python-oath
